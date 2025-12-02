@@ -1,0 +1,31 @@
+scraped_at,title,link,score,author,time,type,comments_count,item_id
+2025-12-02T06:05:08.788152Z,What will enter the public domain in 2026?,https://publicdomainreview.org/features/entering-the-public-domain/2026/,118,herbertl,1764645790,story,28,46117112
+2025-12-02T06:05:09.438731Z,Beej's Guide to Learning Computer Science,https://beej.us/guide/bglcs/html/split/,104,intelkishan,1764647231,story,20,46117280
+2025-12-02T06:05:10.084443Z,DeepSeek-v3.2: Pushing the frontier of open large language models [pdf],https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf,681,pretext,1764604083,story,323,46108780
+2025-12-02T06:05:10.742350Z,India orders smartphone makers to preload state-owned cyber safety app,https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/,567,jmsflknr,1764570614,story,328,46104193
+2025-12-02T06:05:11.331877Z,Tom Stoppard has died,https://www.bbc.com/news/articles/c74xe49q7vlo,41,mstep,1764453813,story,4,46091211
+2025-12-02T06:05:11.967496Z,Reverse math shows why hard problems are hard,https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/,46,gsf_emergency_6,1764642947,story,4,46116724
+2025-12-02T06:05:12.685644Z,Ghostty compiled to WASM with xterm.js API compatibility,https://github.com/coder/ghostty-web,288,kylecarbs,1764613022,story,89,46110842
+2025-12-02T06:05:13.396930Z,Arcee Trinity Mini: US-Trained Moe Model,https://www.arcee.ai/blog/the-trinity-manifesto?src=hn,45,hurrycane,1764635461,story,8,46115682
+2025-12-02T06:05:14.117272Z,Ask HN: Who is hiring? (December 2025),,242,whoishiring,1764604886,story,321,46108941
+2025-12-02T06:05:14.835961Z,"Codex, Opus, Gemini try to build Counter Strike",https://www.instantdb.com/essays/agents_building_counterstrike,150,stopachka,1764351661,story,33,46080835
+2025-12-02T06:05:15.547014Z,Last Week on My Mac: Losing confidence,https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/,340,frizlab,1764629776,story,176,46114599
+2025-12-02T06:05:16.228225Z,Cartographers have been hiding illustrations inside Switzerland’s maps (2020),https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/,281,mhb,1764596475,story,54,46107282
+2025-12-02T06:05:17.103921Z,AI agents find $4.6M in blockchain smart contract exploits,https://red.anthropic.com/2025/smart-contracts/,145,bpierre,1764632691,story,74,46115214
+2025-12-02T06:05:17.811061Z,"Google, Nvidia, and OpenAI",https://stratechery.com/2025/google-nvidia-and-openai/,154,tambourine_man,1764602322,story,141,46108437
+2025-12-02T06:05:18.460123Z,Google unkills JPEG XL?,https://tonisagrista.com/blog/2025/google-unkills-jpegxl/,279,speckx,1764602929,story,215,46108563
+2025-12-02T06:05:19.131443Z,John Giannandrea to retire from Apple,https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/,72,robbiet480,1764627633,story,284,46114122
+2025-12-02T06:05:19.850862Z,Shrinking While Linking,https://www.tweag.io/blog/2025-11-27-shrinking-static-libs/,5,ingve,1764287227,story,0,46074222
+2025-12-02T06:05:20.564896Z,Instagram chief orders staff back to the office five days a week in 2026,https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12,194,mfiguiere,1764622556,story,223,46113092
+2025-12-02T06:05:21.183019Z,The Penicillin Myth,https://www.asimov.press/p/penicillin-myth,151,surprisetalk,1764598386,story,78,46107658
+2025-12-02T06:05:21.797308Z,10 years of writing a blog nobody reads,https://flowtwo.io/post/on-10-years-of-writing-a-blog-nobody-reads,170,thejoeflow,1764261575,story,83,46070883
+2025-12-02T06:05:22.504956Z,Dark Corners of Unicode (2015),https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/,8,cratermoon,1764344761,story,1,46079629
+2025-12-02T06:05:23.194465Z,Ask HN: Who wants to be hired? (December 2025),,117,whoishiring,1764604886,story,226,46108940
+2025-12-02T06:05:23.809633Z,Durin is a library for reading and writing the Dwarf debugging format,https://github.com/tmcgilchrist/durin,62,mooreds,1764614101,story,15,46111120
+2025-12-02T06:05:24.458366Z,"Around The World, Part 27: Planting trees",https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/,15,ibobev,1764635775,story,1,46115729
+2025-12-02T06:05:25.078769Z,Cloud-Init on Raspberry Pi OS,https://www.raspberrypi.com/news/cloud-init-on-raspberry-pi-os/,33,rcarmo,1764268751,story,4,46072016
+2025-12-02T06:05:25.795257Z,Mozilla's latest quagmire,https://rubenerd.com/mozillas-latest-quagmire/,129,nivethan,1764625447,story,112,46113682
+2025-12-02T06:05:26.506819Z,Why I stopped using JSON for my APIs,https://aloisdeniel.com/blog/better-than-json,90,barremian,1764615530,story,113,46111469
+2025-12-02T06:05:27.633178Z,A vector graphics workstation from the 70s,https://justanotherelectronicsblog.com/?p=1429,168,ibobev,1764595918,story,48,46107177
+2025-12-02T06:05:28.247540Z,Decreasing Certificate Lifetimes to 45 Days,https://letsencrypt.org/2025/12/02/from-90-to-45.html,6,abraham,1764645884,story,0,46117126
+2025-12-02T06:05:28.866021Z,Better Auth (YC X25) Is Hiring,https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer,1,bekacru,1764608478,job,0,46109802
